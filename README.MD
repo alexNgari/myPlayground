@@ -1,0 +1,3 @@
+This is a play project for me to try cool stuff I come accross...
+
+I'm currently learning JS, and I'd like to bundle it with flask
